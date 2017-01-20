@@ -1,4 +1,4 @@
-# BlankSpace
+># BlankSpace
 <!-- 
 <P> This is for testing purposes on how much I have learned from the first lesson so far</p>
 -->
@@ -8,5 +8,6 @@
 font-size= 12px;
 font-color= grey;
 }
+</style>
 
-<p> testing to see if i have inputed the correct font sizes and color</P.
+<p> testing to see if i have inputed the correct font sizes and color</p>
